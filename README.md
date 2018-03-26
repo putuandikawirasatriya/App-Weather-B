@@ -1,4 +1,4 @@
 # Screenshot
 <p align="center">
-  <img src="https://github.com/wahanawar/AppWeaterAsync1615051050/blob/master/Capture.PNG"/>
+  <img src="https://github.com/putuandikawirasatriya/App-Weather-B/blob/master/screenshot.jpg"/>
 </p>
